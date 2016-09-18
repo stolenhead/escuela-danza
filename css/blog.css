@@ -1,0 +1,99 @@
+.align{
+	text-align: center;
+}
+nav{
+	margin-bottom: 3%;
+}
+.margin{
+	text-decoration: none;
+	margin: 3%;
+	color: #D9D7D7;
+}
+.caja{
+	margin-top: 5%;
+	margin-left:35%;
+}
+.back{
+    background-color: rgb(246, 246, 246);
+}
+.back2{
+	background-image: url(../img/cubes.png);
+	height: 370px;
+}
+.imagen{
+	margin: 5%;
+	padding: 0.5%;
+	width: 87%;
+	margin-left: 35%;
+	margin-top: 15%;
+	height: 284px;
+}
+
+.txt{
+	padding: 2%;
+	margin: 5%;
+background-color: rgb(230, 230, 230);
+}
+.div{
+	float: left;
+	margin-left: 30%;
+}
+span{
+	float: left;
+}
+.nombre{
+	border: solid 1px #bbb;
+	width: 45%;
+	margin: 2%;
+	padding: 0.3% 0 0.5% 2.3%;
+}
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.2%;
+}
+.margin4{
+	text-decoration: none;
+	margin: 3%;
+	color: #333333;
+}
+footer{
+	background-color:#192951; 
+	padding: 1% 0% 0.5% 2%;
+	margin-top: 4%;
+	color:#D9D7D7; 
+}
+.caja4{
+	background-image: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	background-position: 90% -5%;
+	height: 530px;
+}
+.contac{
+	margin-left: 10%;
+	margin-top: 5%;
+	}
+.po2{
+	padding: 2% 11% 2% 11%;
+	background-color: #192951;
+	text-align: center;
+	margin-left: 2%;
+	margin-top: 30px;
+	color: #D9D7D7;
+	width: 280px;
+}
+.po3{
+    text-decoration: none;
+    color: #807783;
+    padding: 2% 11% 2% 11%;
+	background-color: #192951;
+}
+.po4{
+	padding: 2% 11% 2% 11%;
+	background-color: #192951;
+	text-align: center;
+	margin-top: 30px;
+	color: #D9D7D7;
+	width: 80px;
+    text-decoration: none;
+    border-radius: 9%;
+}
